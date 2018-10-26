@@ -256,6 +256,9 @@ blockquote cite a:visited { color: #8B9798; border: none }
 .pull-quote blockquote:before {
    content: none;
 }
+.banner-text{
+   color: black !important;
+}
 
 /* Abbreviations */
 abbr {
